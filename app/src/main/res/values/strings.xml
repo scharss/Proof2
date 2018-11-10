@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Parceros</string>
+    <string name="Text1">Esta es  la página principal</string>
+    <string name="Text2">Bienvenidos a el Chat</string>
+    <string name="Button">Crear Cuenta</string>
+    <string name="TxtNom">Nombre</string>
+    <string name="TxtCor">Correo</string>
+    <string name="TxtPass">Contraseña</string>
+    <string name="BtnCon">Crear Cuenta</string>
+    <string name="Cer">Cerrar Sesión</string>
+    <string name="Aju">Ajustes</string>
+    <string name="Usu">Usuarios</string>
+    <string name="Reg">Registrarse</string>
+</resources>
